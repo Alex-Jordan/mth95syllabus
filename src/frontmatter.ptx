@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<frontmatter xml:id="frontmatter">
+  <titlepage>
+    <author>
+      <personname>Alex Jordan</personname>
+    </author>
+    <date>Summer 2024</date>
+  </titlepage>
+  <abstract>
+    <p>
+      This syllabus is a contract between student and instructor. Please read it carefully and
+      contact me (your instructor) if you need clarification. If you decide to continue with this
+      course, it means that you accept the course structure described here.
+    </p>
+  </abstract>
+</frontmatter>

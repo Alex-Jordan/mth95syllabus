@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="section-textbook">
+  <title>Textbook</title>
+  <p>
+    We are using a <em>free</em> textbook written by PCC faculty. The book is called <pubtitle>ORCCA
+    (Open Resources for Community College Algebra)</pubtitle>. We're excited to replace an expensive
+    textbook with this free book and save you money. If you find any issues with this book where you
+    think we could make it better, please let me know about each one.
+  </p>
+  <p>
+    Access this book as a free
+    <url href="http://spot.pcc.edu/math/orcca/ed2/html/" visual="spot.pcc.edu/math/orcca/ed2/html">eBook</url>,
+    as a (color or black-and-white)
+    <url href="http://spot.pcc.edu/math/orcca/ed2/pdf/" visual="spot.pcc.edu/math/orcca/ed2/pdf">PDF</url>,
+    for purchase from the
+    <url href="https://bookstore.pcc.edu/store2/SelectTermDept.aspx" visual="bookstore.pcc.edu/store2/SelectTermDept.aspx">PCC book store</url>
+    for $15.40, or for purchase from
+    <url href="https://amzn.to/2Zo1wOZ" visual="amzn.to/2Zo1wOZ">Amazon</url> for $15.40.
+  </p>
+  <p>
+    At <url href="pcc.edu/orcca"/>, there are many ORCCA-related resources, including a PDF document
+    with the answers to odd-numbered exercises in the book. (However, these do not directly apply to
+    your <webwork/> exercises, which are randomized.)
+  </p>
+</section>

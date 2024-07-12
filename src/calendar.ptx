@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="section-calendar">
+  <title>Calendar</title>
+  <table xml:id="mw-calendar">
+    <title>Calendar</title>
+    <tabular valign="top" bottom="minor" right="minor" left="major" top="major">
+      <col/>
+      <col/>
+      <col width="21%"/>
+      <col width="42%" right="major"/>
+      <row header="yes" bottom="medium">
+        <cell>Module</cell>
+        <cell>Sections</cell>
+        <cell>Activities</cell>
+        <cell>Assignments</cell>
+      </row>
+      <row>
+        <cell>
+          <line>0</line>
+          <line>6/24<ndash/>6/27</line>
+        </cell>
+        <cell>
+        </cell>
+        <cell>
+          <p>
+            Watch the Orientation video.
+          </p>
+          <p>
+            Read Course Syllabus and Calendar.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Complete the WeBWorK Orientation Assignment by Thursday at 10:00 <pm/>.
+          </p>
+          <p>
+            Make a post in the <q>Find a Study Group!</q> Discussion by Thursday at 10:00 <pm/>. And
+            then <em>be</em> a member of a study group with 4<ndash/>6 members by Sunday at 10:00
+            <pm/>.
+          </p>
+          <p>
+            Complete the Course Information quiz in Module 0.
+          </p>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <line>1</line>
+          <line>6/24<ndash/>6/30</line>
+        </cell>
+        <cell>
+          <line>10.1</line>
+          <line>10.2</line>
+          <line>10.3</line>
+        </cell>
+        <cell>
+          <p>
+            Watch video lectures and complete related lecture outlines.
+          </p>
+          <p>
+            Read corresponding textbook sections.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Post completed video lecture notes by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete the WeBWorK Exercises for Sections 10.1, 10.2, and 10.3 by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete and upload Worksheet #1 by Sunday at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <line>2</line>
+          <line>7/1<ndash/>7/7</line>
+        </cell>
+        <cell>
+          <line>10.4</line>
+          <line>10.5</line>
+          <line>10.6</line>
+        </cell>
+        <cell>
+          <p>
+            Watch video lectures and complete related lecture outlines.
+          </p>
+          <p>
+            Read corresponding textbook sections.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Post completed video lecture notes by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete the WeBWorK Exercises for Sections 10.4, 10.5, and 10.6 by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete and upload Worksheet #2 by Sunday at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <line>3</line>
+          <line>7/8<ndash/>7/14</line>
+        </cell>
+        <cell>
+          <line>10.7</line>
+          <line>11.1</line>
+          <line>11.2</line>
+        </cell>
+        <cell>
+          <p>
+            Watch video lectures and complete related lecture outlines.
+          </p>
+          <p>
+            Read corresponding textbook sections.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Post completed video lecture notes by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete the WeBWorK Exercises for Sections 10.7, 11.1, and 11.2 by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete and upload Worksheet #3 by Sunday at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <line>4</line>
+          <line>7/15<ndash/>7/21</line>
+        </cell>
+        <cell>
+          <line>11.3</line>
+          <line>11.4</line>
+          <line>11.5</line>
+        </cell>
+        <cell>
+          <p>
+            Watch video lectures and complete related lecture outlines.
+          </p>
+          <p>
+            Read corresponding textbook sections.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Post completed video lecture notes by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete the WeBWorK Exercises for Sections 11.3, 11.4, and 11.5 by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete and upload Worksheet #4 by Sunday at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row bottom="medium">
+        <cell>
+          <line>6/24<ndash/>7/22</line>
+        </cell>
+        <cell>
+          <line>Midterm</line>
+          <line>Exam</line>
+          <line>Prep</line>
+        </cell>
+        <cell>
+          <p>
+            Read through the Midterm Exam Preparation module.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Complete and post the Midterm Exam Preparation assignment by Sunday July 21 at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row bottom="major">
+        <cell colspan="2">
+          <line>Midterm Exam on July 22 at</line>
+          <line>10:00<ndash/>11:50 for CRN 31485</line>
+          <line>(but arrive at 9:30)</line>
+          <line>2:00<ndash/>3:50 for CRN 32591</line>
+          <line>(but arrive at 1:30)</line>
+        </cell>
+        <cell/>
+        <cell width="67%">
+          <p>
+            The Midterm Exam is remotely proctored. You should be thoroughly familiar with the
+            process before arriving. Contact me if you need more guidance about remote proctoring.
+            See <xref ref="section-exams"/> if an alternative is necessary, but you need to plan for
+            such things at least one week in advance.
+          </p>
+        </cell>
+      </row>
+    </tabular>
+    <tabular valign="top" bottom="minor" right="minor" left="major" top="major">
+      <col/>
+      <col/>
+      <col width="21%"/>
+      <col width="42%" right="major"/>
+      <row header="yes" bottom="medium">
+        <cell>Module</cell>
+        <cell>Sections</cell>
+        <cell>Activities</cell>
+        <cell>Assignments</cell>
+      </row>
+      <row>
+        <cell>
+          <line>5</line>
+          <line>7/22<ndash/>7/28</line>
+        </cell>
+        <cell>
+          <line>12.1</line>
+          <line>12.2</line>
+        </cell>
+        <cell>
+          <p>
+            Watch video lectures and complete related lecture outlines.
+          </p>
+          <p>
+            Read corresponding textbook sections.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Post completed video lecture notes by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete the WeBWorK Exercises for Sections 12.1, 12.2, and 12.3 by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete and upload Worksheet #5 by Sunday at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <line>6</line>
+          <line>7/29<ndash/>8/4</line>
+        </cell>
+        <cell>
+          <line>12.3</line>
+          <line>12.4</line>
+          <line>12.5</line>
+        </cell>
+        <cell>
+          <p>
+            Watch video lectures and complete related lecture outlines.
+          </p>
+          <p>
+            Read corresponding textbook sections.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Post completed video lecture notes by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete the WeBWorK Exercises for Sections 12.4 and 12.5 by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete and upload Worksheet #6 by Sunday at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <line>7</line>
+          <line>8/5<ndash/>8/11</line>
+        </cell>
+        <cell>
+          <line>13.1</line>
+          <line>13.2</line>
+        </cell>
+        <cell>
+          <p>
+            Watch video lectures and complete related lecture outlines.
+          </p>
+          <p>
+            Read corresponding textbook sections.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Post completed video lecture notes by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete the WeBWorK Exercises for Sections 13.1 and 13.2 by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete and upload Worksheet #7 by Sunday at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <line>8</line>
+          <line>8/12<ndash/>8/18</line>
+        </cell>
+        <cell>
+          <line>13.3</line>
+          <line>13.4</line>
+        </cell>
+        <cell>
+          <p>
+            Watch video lectures and complete related lecture outlines.
+          </p>
+          <p>
+            Read corresponding textbook sections.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Post completed video lecture notes by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete the WeBWorK Exercises for Sections 13.3 and 13.4 by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete and upload Worksheet #8 by Sunday at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <line>9</line>
+          <line>8/19<ndash/>8/25</line>
+        </cell>
+        <cell>
+          <line>13.6</line>
+          <line>13.7</line>
+        </cell>
+        <cell>
+          <p>
+            Watch video lectures and complete related lecture outlines.
+          </p>
+          <p>
+            Read corresponding textbook sections.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Post completed video lecture notes by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete the WeBWorK Exercises for Sections 13.6 and 13.7 by Sunday at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <line>10</line>
+          <line>8/26<ndash/>8/30</line>
+        </cell>
+        <cell>
+          <line>13.5</line>
+        </cell>
+        <cell>
+          <p>
+            Watch video lectures and complete related lecture outlines.
+          </p>
+          <p>
+            Read corresponding textbook sections.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Post completed video lecture notes by Sunday at 10 <pm/>.
+          </p>
+          <p>
+            Complete the WeBWorK Exercises for Section 13.5 by Friday at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row bottom="medium">
+        <cell>
+          <line>7/22<ndash/>8/30</line>
+        </cell>
+        <cell>
+          <line>Final</line>
+          <line>Exam</line>
+          <line>Prep</line>
+        </cell>
+        <cell>
+          <p>
+            Read through the Final Exam Preparation module.
+          </p>
+        </cell>
+        <cell>
+          <p>
+            Complete and post the Final Exam Preparation assignment by Thursday August 29 at 10 <pm/>.
+          </p>
+        </cell>
+      </row>
+      <row bottom="major">
+        <cell colspan="2">
+          <line>Final Exam on August 30 at</line>
+          <line>10:00<ndash/>11:50 for CRN 31485</line>
+          <line>(but arrive at 9:30)</line>
+          <line>2:00<ndash/>3:50 for CRN 32591</line>
+          <line>(but arrive at 1:30)</line>
+        </cell>
+        <cell/>
+        <cell>
+          <p>
+            The Final Exam is remotely proctored. You should be thoroughly familiar with the
+            process before arriving. Contact me if you need more guidance about remote proctoring.
+            See <xref ref="section-exams"/> if an alternative is necessary, but you need to plan for
+            such things at least one week in advance.
+          </p>
+        </cell>
+      </row>
+    </tabular>
+  </table>  
+</section>
